@@ -6,7 +6,8 @@ Simple plugin to support Java properties files in the Brackets editor. Including
 Steps to add in Brackets
 ------------------------
 * Go to: Menu help -> Show extensions folder -> user
-* Copy main.js file
+* Create a new foler named 'brackets-java-properties-extension'
+* Copy main.js file into the just created folder
 
 Pending
 -------
