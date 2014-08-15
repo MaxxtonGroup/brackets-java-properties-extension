@@ -1,0 +1,11 @@
+{
+    "name": "brackets-java-properties-extension",
+    "title": "brackets-java-properties-extension",
+    "author": "Tom Reinartz",
+    "homepage": "https://github.com/MaxxtonGroup/brackets-java-properties-extension",
+    "version": "1.0",
+    "engines": {
+        "brackets": ">=0.23"
+    },
+    "description": "Simple plugin to support Java properties files in the Brackets editor. Including support for comments."
+}
